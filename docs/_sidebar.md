@@ -1,3 +1,3 @@
 - [home](READEME)
-- [text detection](/image_detection/text_detection_overview)
+- [text detection](/detection/text_detection_overview)
 
