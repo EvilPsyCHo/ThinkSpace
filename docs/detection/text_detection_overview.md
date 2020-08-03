@@ -90,6 +90,10 @@
   其中$P_{ij}$表示网络输出像素点属于文章的概率，$T_{ij}$表示像素阈值。
 
   论文显示DB模块在连续水平、多方向、多语言等数据集上取得最佳性能，推理速度较快，采用轻量级骨干网络依然能够得到较好的精度。
+  
+   https://github.com/MhLiao/DB 
+  
+   https://github.com/WenmuZhou/DBNet.pytorch 
 
 ## 开源项目
 
@@ -126,12 +130,11 @@
 - [知乎：TextBox](https://zhuanlan.zhihu.com/p/43545190)
 
 - [*Real-time Scene Text Detection with Differentiable Binarization*](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1911.08947)
+- [知乎：自然场景文本检测识别技术综述]( https://zhuanlan.zhihu.com/p/38655369 )
 
-  
+ https://blog.csdn.net/buptlihang/article/details/99578415 
 
-
-
-
+ https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec/tree/master 
 
 
 
