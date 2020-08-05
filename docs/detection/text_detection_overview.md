@@ -94,6 +94,8 @@
    https://github.com/MhLiao/DB 
   
    https://github.com/WenmuZhou/DBNet.pytorch 
+  
+- SSD: Single Shot MultiBox Detector
 
 ## 开源项目
 
@@ -108,29 +110,19 @@
 ## 参考
 
 - [how-to-calculate-map-for-detection-task-for-the-pascal-voc-challenge]( https://datascience.stackexchange.com/questions/25119/how-to-calculate-map-for-detection-task-for-the-pascal-voc-challenge )
-
 - [map-mean-average-precision-for-object-detection](https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173)
-
 - [Face++ 深度学习时代的文字检测与识别技术](https://zhuanlan.zhihu.com/p/51725259)
-
 - [Review of Scene Text Detection and Recognition, [*Archives of Computational Methods in Engineering*], 2020 ](https://link.springer.com/article/10.1007/s11831-019-09315-1)
-
 - [Total-Text-Dataset 英文开源数据集及评估脚本](https://github.com/cs-chan/Total-Text-Dataset)
-
 - [Curve-Text-Detector 中文开源数据集及评估脚本](https://github.com/Yuliang-Liu/Curve-Text-Detector)
-
 - [OCR开源数据集汇总及转换脚本](https://github.com/WenmuZhou/OCR_DataSet)
-
 - [OCR开源数据集汇总 - CSDN](https://blog.csdn.net/buptlihang/article/details/99578415)
-
 - [OCR 开源数据集汇总 - github](https://github.com/xylcbd/ocr-open-dataset)
-
 - [知乎：场景文字检测—CTPN原理与实现](https://zhuanlan.zhihu.com/p/34757009)
-
 - [知乎：TextBox](https://zhuanlan.zhihu.com/p/43545190)
-
 - [*Real-time Scene Text Detection with Differentiable Binarization*](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1911.08947)
 - [知乎：自然场景文本检测识别技术综述]( https://zhuanlan.zhihu.com/p/38655369 )
+- [知乎：目标检测最新进展和展望]( https://zhuanlan.zhihu.com/p/46595846 )
 
  https://blog.csdn.net/buptlihang/article/details/99578415 
 
